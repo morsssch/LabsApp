@@ -14,8 +14,7 @@ Features:
 2. Install required dependencies:
    ```bash
    pip install customtkinter prettytable
-Run the app:
+3. Run the app:
    ```bash
    python main.py
-```
 OR just launch the labsApp.exe file (if you’re on Windows).
