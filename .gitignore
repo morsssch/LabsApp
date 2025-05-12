@@ -1,0 +1,20 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Компилированные Python-файлы
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Файлы от PyInstaller
+*.spec
+dist/
+build/
+
+# Файлы логов
+*.log
+
+# Кэш pip
+pip-wheel-metadata/
+*.egg-info/
